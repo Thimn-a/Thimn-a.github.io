@@ -18,7 +18,7 @@ Each section contains evidence of learning and a reflection based on the *STAR (
 
 | Section | Description | Link |
 |----------|--------------|------|
-| **CV Submission** | Markdown of my cv submission | [View Section](Thimn-a.github.io/cv-submission) |
+| **CV Submission** | Markdown of my cv submission | [View Section](https://github.com/Thimn-a/Thimn-a.github.io/blob/main/Thimna%20Booi%20WIL%20CV.docx) |
 | **Mock Interview** | Provides insights from my mock interview experience. | [View Section](Thimn-a.github.io/mock-interview) |
 
 ---
