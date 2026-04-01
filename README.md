@@ -14,7 +14,7 @@ Each section contains evidence of learning and a reflection based on the *STAR (
 
 ---
 
-## CV Submission
+# CV Submission
 
 ## Thimna Barbara Booi
 ---
@@ -47,6 +47,7 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
 * Job title: Lecturer
 * Company: Cape Peninsula University of Technology
 * Contact: 0745243546
+
 **Candice Pape**
 * Mentor
 * Contact: 0780515075
@@ -59,8 +60,10 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
 
 ---
 
-## Mock Interview
+# Mock Interview
 
-
+<video width="600" controls>
+  <source src="Video/mock interview.mp4" type="video/mp4">
+</video>
 
 ---
