@@ -31,7 +31,7 @@ Motivated ICT student with hands-on experience in software development, database
 
 ### Experience
 **IT Learnership | Siyaya Skills Institution | 2021 - 2022**
-* Undertook comprehensive training in Microsoft Excel, covering beginner to intermediate/aadvanced functions, and completed competency-based logbooks documenting practical tasks and applied learning.
+* Undertook comprehensive training in Microsoft Excel, covering beginner to intermediate/advanced functions, and completed competency-based logbooks documenting practical tasks and applied learning.
 
 ### Projects
 **UI/UX Design Project - FIGMA - 2025**
@@ -63,7 +63,7 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
 # Mock Interview
 
 <video width="600" controls>
-  <source src="Video/mock interview.mp4" type="video/mp4">
+  <source src="Video/mock video.mp4" type="video/mp4">
 </video>
 
 ---
