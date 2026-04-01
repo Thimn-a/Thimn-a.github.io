@@ -1,9 +1,13 @@
 # Work Readiness Digital Portfolio
 
 *Student Name:* Thimna Barbara Booi 
-*Student Number:* 230232108
+
+*Student Number:* 230232108 
+
 *Subject Code:* PRP372S  
+
 *Lecturer:* P. Inderlal  
+
 *Date:* 30 March 2026  
 
 ---
@@ -26,6 +30,7 @@ Motivated ICT student with hands-on experience in software development, database
 ### Education
 **Table View High School - 2017-2019**
 * Matric - Admission to a bachelor's degree
+
 **Cape Peninsula University of Technology - 2023-Present**
 * DPICT: Applications Development
 
@@ -36,6 +41,7 @@ Motivated ICT student with hands-on experience in software development, database
 ### Projects
 **UI/UX Design Project - FIGMA - 2025**
 * Watched YouTube videos and completed LinkedIn courses to learn more about FIGM. Created wireframes and high-fidelity mockups using FIGMA.
+
 **Ambumate - JAVA-based Medical Support System - 2024**
 * Contributed to the development of a Java Swing healthcare application. Designed and implemented the profile and medical history sections.
 
