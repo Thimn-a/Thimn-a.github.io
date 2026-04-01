@@ -63,7 +63,7 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
 # Mock Interview
 
 <video width="600" controls>
-  <source src="Video/mock video.mp4" type="video/mp4">
+  <source src="video/mock video.mp4" type="video/mp4">
 </video>
 
 ---
