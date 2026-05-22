@@ -58,7 +58,7 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
 * Mentor
 * Contact: 0780515075
 
-## Reflection: STAR method
+## Reflection on coding in Markdown: STAR method
 **Situation -** I was required to code my CV using Markdown Language
 **Task -** I was tasked with coding my CV using Markdown
 **Action -** I carefully coded my CV using Markdown and ensured that it was correct
@@ -77,6 +77,7 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
 **Task -** I had to answer interview questions while recording myself
 **Action -** I took multiple videos to ensure that it was correct
 **Result -** I submitted the video to my digital portfolio
+
 ---
 
 # Published on GitHub Pages
@@ -86,4 +87,5 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
 **Task -** I had to figure out how to use GitHub Pages and deploy my work
 **Action -** I deployed my portfolio to GitHub Pages
 **Result -** I was able to publish my portfolio successfully
+
 ---
