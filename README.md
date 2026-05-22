@@ -40,7 +40,7 @@ Motivated ICT student with hands-on experience in software development, database
 
 ### Projects
 **UI/UX Design Project - FIGMA - 2025**
-* Watched YouTube videos and completed LinkedIn courses to learn more about FIGM. Created wireframes and high-fidelity mockups using FIGMA.
+* Watched YouTube videos and completed LinkedIn courses to learn more about FIGMA. Created wireframes and high-fidelity mockups using FIGMA.
 
 **Ambumate - JAVA-based Medical Support System - 2024**
 * Contributed to the development of a Java Swing healthcare application. Designed and implemented the profile and medical history sections.
@@ -58,8 +58,8 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
 * Mentor
 * Contact: 0780515075
 
-## Reflection: STAR Technique
-**Situation -** My CV had to be submitted
+## Reflection: STAR method
+**Situation -** I was required to code my CV using Markdown Language
 **Task -** I was tasked with coding my CV using Markdown
 **Action -** I carefully coded my CV using Markdown and ensured that it was correct
 **Result -** I submitted the link to my CV on MS Teams
@@ -72,4 +72,18 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
   <source src="video/mock video.mp4" type="video/mp4">
 </video>
 
+## Reflection on mock interview video experience: STAR method
+**Situation -** I was required to record a mock interview video
+**Task -** I had to answer interview questions while recording myself
+**Action -** I took multiple videos to ensure that it was correct
+**Result -** I submitted the video to my digital portfolio
+---
+
+# Published on GitHub Pages
+
+## Reflection on the use of GitHub Pages: STAR method
+**Situation -** I was required to deploy my portfolio to GitHub Pages
+**Task -** I had to figure out how to use GitHub Pages and deploy my work
+**Action -** I deployed my portfolio to GitHub Pages
+**Result -** I was able to publish my portfolio successfully
 ---
