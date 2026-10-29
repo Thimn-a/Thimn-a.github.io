@@ -96,3 +96,13 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
 During CAPACITI and X Spark, I participated in structured learning and project activities that required planning, responsibility, and collaboration. In X Spark, my team researched a proposed integration between BeeHive and Purple Bee. The goal was to reduce duplicate manual entry by allowing approved meeting action items from BeeHive to be created as tasks in Purple Bee under Thematics.
 
 The research responsibilities were divided by system area: I focused on BeeHive research and documentation, a teammate focused on Purple Bee, and another teammate investigated the Supabase/database side. My role included project leadership and documentation.
+
+## Reflection
+**Situation -** During CAPACITI and X Spark, I worked on learning activities and a technical research task that depended on clear responsibilities and coordination.
+**Task -** I needed to understand my role, contribute to the team's goal, and help produce documentation that could guide the proposed integration.
+**Action -** I focused on researching BeeHive and documenting the intended one-way integration flow. I considered the transfer of approved action items, security and permission checks, validation, duplicate prevention, and limits on what information should be transferred.
+**Result -** I developed a better understanding of how a shared goal and clear responsibilities help a team work effectively. The X Spark outcome was research and requirements documentation; implementation and testing were not confirmed as completed.
+
+# User Stories and Tasks
+
+## Evidence
