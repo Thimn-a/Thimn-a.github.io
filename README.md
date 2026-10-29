@@ -89,3 +89,10 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
 **Result -** I was able to publish my portfolio successfully
 
 ---
+
+# Agile Team Charter
+
+## Evidence
+During CAPACITI and X Spark, I participated in structured learning and project activities that required planning, responsibility, and collaboration. In X Spark, my team researched a proposed integration between BeeHive and Purple Bee. The goal was to reduce duplicate manual entry by allowing approved meeting action items from BeeHive to be created as tasks in Purple Bee under Thematics.
+
+The research responsibilities were divided by system area: I focused on BeeHive research and documentation, a teammate focused on Purple Bee, and another teammate investigated the Supabase/database side. My role included project leadership and documentation.
