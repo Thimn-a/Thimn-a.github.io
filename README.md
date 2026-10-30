@@ -171,3 +171,44 @@ The product backlog contained the main features and requirements identified duri
 # Sprtint Backlog
 
 ## Evidence
+**Sprint Work and Activities**
+The project work focused on research, requirements analysis, documentation, and technical preparation.
+| Activity | Description | Outcome |
+| --- | --- | --- |
+| BeeHive research | Investigated how BeeHive manages meeting agendas, notes, and action items. | Better understanding of the source system. |
+| Purple Bee research | Investigated how Purple Bee manages tasks and where transferred action items would belong. | Better understanding of the receiving system. |
+| Integration research | Explored how the two systems could communicate through an API-based approach. | Identified the proposed integration approach. |
+| Requirements analysis | Identified functional and technical requirements, including security and data validation. | Requirements documented for future implementation. |
+| Final documentation | Consolidated the research, requirements and proposed integration process. | Final project documentation completed. |
+| OpenCode installation | Installed OpenCode as part of the technical setup and familiarisation with development tools. | OpenCode installation completed. |
+
+## Reflection - STAR Method
+**Situation -** As the project progressed, the team needed to move from understanding the two systems to documenting a practical approach for integrating them. This required research, planning, and preparation.
+**Task -** My responsibility was to complete my assigned research, contribute to the integration requirements, assist with the final documentation, and complete the relevant technical setup, as well as present our findings to the senior development team.
+**Action -** I researched BeeHive and its functionality, investigated how meeting action items could be transferred and documented the requirements for the proposed integration. I also helped consolidate the research into the final documentation. In addition, I installed OpenCode as part of becoming familiar with the technical tools available for the project.
+**Result -** I completed my research and documentation responsibilities and successfully installed OpenCode. I developed a better understanding of how research and planning contribute to software development and learnt that technical preparation is an important part of getting ready for implementation.
+
+# Agile Logbook
+
+## Evidence
+**Project Activity Log**
+| Activity | Work performed | Outcome |
+| --- | --- | --- |
+| Project introduction | Reviewed the project objective and understood the purpose of connecting BeeHive and Purple Bee. | Established an understanding of the project. |
+| BeeHive investigation | Researched BeeHive's meeting agendas, notes, and action-item functionality. | Identified the information that could be transferred. |
+| Purple Bee investigation | Researched the task-management functionality and the Thematics area. | Identified where transferred tasks would be managed. |
+| Integration investigation | Explored the proposed API-based communication between the systems. | Established the proposed direction for integration. |
+| Requirements documentation | Identified functional and technical requirements, including authentication, validation, and duplicate prevention. | Created a structured requirements document. |
+| Documentation finalisation | Consolidated the team's research and completed the final documentation. | Final documentation completed. |
+| Technical preparation | Installed OpenCode as part of the project's technical setup. | Installation completed. |
+
+## Overall Reflection - STAR Method
+**Situation -** The BeeHive to Purple Bee Integration Project gave me the opportunity to work on a real-world software integration research task within the X Spark environment. The project required an understanding of two existing systems and how they could potentially communicate to improve an internal business process.
+
+**Task -** My main responsibilities were to lead and document the research relating to BeeHive, contribute to identifying the integration requirements, and help ensure that the final documentation presented the proposed solution clearly and professionally.
+
+**Action -** I investigated BeeHive's functionality, researched how meeting action items could be transferred into Purple Bee, and worked with the team to bring together the different research findings. I contributed to identifying the technical requirements, considered potential challenges, and helped compile the final documentation. I also installed OpenCode as part of my technical preparation.
+
+**Result -** I completed my assigned research and documentation work, and the team produced a final document that could be used as a reference for future implementation. Although the actual integration was not implemented or tested during this research phase, I gained valuable knowledge about system integration, APIs, databases, software requirements, documentation, and project coordination.
+
+Overall, this project helped me understand that software development involves much more than writing code. It also requires careful research, communication, planning, problem-solving, and the ability to document technical information in a way that other developers can understand and use.
