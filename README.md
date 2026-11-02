@@ -116,9 +116,9 @@ The project involved dividing responsibilities between team members, while also 
 * Consider security, authentication, data validation, and duplicate prevention.
 * Produce final documentation to guide future implementation.
 
-### Evidence: Project Overview
 ![BeeHive to Purple Bee Project Overview](evidence/project%20overview.png)
-*Figure 1: Overview of the BeeHive to Purple Bee integration project.*
+
+![BeeHive to Purple Bee Project Overview](evidence/development%20team.png)
 
 ## Reflection - STAR Method
 **Situation -** The team was assigned a project to investigate the integration of BeeHive and Purple Bee. The objective was to reduce the need for employees to manually recreate meeting action items as tasks in another system.
@@ -143,6 +143,12 @@ As an authorised X Spark team member, I want approved action items from BeeHive 
 8. Document the expected responses and error-handling requirements.
 9. Identify how the integration could be tested in a staging environment.
 
+![BeeHive to Purple Bee Project Overview](evidence/activity%20diagram.png)
+
+![BeeHive to Purple Bee Project Overview](evidence/technical%20requirements.png)
+
+![BeeHive to Purple Bee Project Overview](evidence/user%20story.png)
+
 ## Reflection - STAR Method
 **Situation -** During the integration research, it was important to understand what employees would need from the proposed system and how the integration would support their daily activities.
 **Task -** My responsibility was to contribute to identifying and documenting the requirements that would guide the development of the integration.
@@ -166,13 +172,15 @@ The product backlog contained the main features and requirements identified duri
 | Medium | Task creation records | Record the outcome of task-creation requests. |
 | Medium | Staging tests | Test the proposed integration in a controlled staging environment. |
 
+![BeeHive to Purple Bee Project Overview](evidence/data%20requiremnets.png)
+
 ## Reflection - STAR Method
 **Situation -** The project required the team to identify the different features and technical requirements that would be necessary to make the integration work.
 **Task -** I needed to understand the requirements and contribute to organising the research findings into a structured document that could guide future development.
 **Action -** I helped identify the important requirements, including the data structure, receiving endpoint, authentication, validation, and duplicate prevention. I also considered which requirements would be essential before the integration could function correctly and documented the proposed priorities.
 **Result -** The product backlog provided a structured overview of the work required for future implementation. I gained a better understanding of how software requirements are prioritised and how a product backlog helps development teams plan and organise their work.
 
-# Sprtint Backlog
+# Sprint Backlog
 
 ## Evidence
 **Sprint Work and Activities**
@@ -183,13 +191,15 @@ The project work focused on research, requirements analysis, documentation, and 
 | Purple Bee research | Investigated how Purple Bee manages tasks and where transferred action items would belong. | Better understanding of the receiving system. |
 | Integration research | Explored how the two systems could communicate through an API-based approach. | Identified the proposed integration approach. |
 | Requirements analysis | Identified functional and technical requirements, including security and data validation. | Requirements documented for future implementation. |
-| Final documentation | Consolidated the research, requirements and proposed integration process. | Final project documentation completed. |
+| Final documentation | Consolidated the research, requirements, and proposed integration process. | Final project documentation completed. |
 | OpenCode installation | Installed OpenCode as part of the technical setup and familiarisation with development tools. | OpenCode installation completed. |
+
+![BeeHive to Purple Bee Project Overview](evidence/project%20overview.png)
 
 ## Reflection - STAR Method
 **Situation -** As the project progressed, the team needed to move from understanding the two systems to documenting a practical approach for integrating them. This required research, planning, and preparation.
 **Task -** My responsibility was to complete my assigned research, contribute to the integration requirements, assist with the final documentation, and complete the relevant technical setup, as well as present our findings to the senior development team.
-**Action -** I researched BeeHive and its functionality, investigated how meeting action items could be transferred and documented the requirements for the proposed integration. I also helped consolidate the research into the final documentation. In addition, I installed OpenCode as part of becoming familiar with the technical tools available for the project.
+**Action -** I researched BeeHive and its functionality, investigated how meeting action items could be transferred, and documented the requirements for the proposed integration. I also helped consolidate the research into the final documentation. In addition, I installed OpenCode as part of becoming familiar with the technical tools available for the project.
 **Result -** I completed my research and documentation responsibilities and successfully installed OpenCode. I developed a better understanding of how research and planning contribute to software development and learnt that technical preparation is an important part of getting ready for implementation.
 
 # Agile Logbook
