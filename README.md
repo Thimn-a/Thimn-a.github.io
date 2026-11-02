@@ -113,8 +113,14 @@ The project involved dividing responsibilities between team members, while also 
 * Investigate how Purple Bee manages tasks.
 * Identify how information could be transferred between the two systems.
 * Establish the functional and technical requirements for the proposed integration.
-* Consider security, authentication, data validation and duplicate prevention.
+* Consider security, authentication, data validation, and duplicate prevention.
 * Produce final documentation to guide future implementation.
+
+### Evidence: Project Overview
+
+![BeeHive to Purple Bee Project Overview](evidence/agile-team-charter/project-overview.png)
+
+*Figure 1: Overview of the BeeHive to Purple Bee integration project.*
 
 ## Reflection - STAR Method
 **Situation -** The team was assigned a project to investigate the integration of BeeHive and Purple Bee. The objective was to reduce the need for employees to manually recreate meeting action items as tasks in another system.
