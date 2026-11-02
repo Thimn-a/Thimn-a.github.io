@@ -118,7 +118,7 @@ The project involved dividing responsibilities between team members, while also 
 
 ### Evidence: Project Overview
 
-![BeeHive to Purple Bee Project Overview](evidence/agile-team-charter/project-overview.png)
+![BeeHive to Purple Bee Project Overview](evidence/agile-team-charter/project overview.png) 
 
 *Figure 1: Overview of the BeeHive to Purple Bee integration project.*
 
