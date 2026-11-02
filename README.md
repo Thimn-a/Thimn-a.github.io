@@ -60,8 +60,11 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
 
 ## Reflection on coding in Markdown: STAR method
 **Situation -** I was required to code my CV using Markdown Language
+
 **Task -** I was tasked with coding my CV using Markdown
+
 **Action -** I carefully coded my CV using Markdown and ensured that it was correct
+
 **Result -** I submitted the link to my CV on MS Teams
 
 ---
@@ -74,8 +77,11 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
 
 ## Reflection on mock interview video experience: STAR method
 **Situation -** I was required to record a mock interview video
+
 **Task -** I had to answer interview questions while recording myself
+
 **Action -** I took multiple videos to ensure that it was correct
+
 **Result -** I submitted the video to my digital portfolio
 
 ---
@@ -84,8 +90,11 @@ Java | Python | JavaScript | MySQL | HTML | CSS | FIGMA | Microsoft Excel
 
 ## Reflection on the use of GitHub Pages: STAR method
 **Situation -** I was required to deploy my portfolio to GitHub Pages
+
 **Task -** I had to figure out how to use GitHub Pages and deploy my work
+
 **Action -** I deployed my portfolio to GitHub Pages
+
 **Result -** I was able to publish my portfolio successfully
 
 ---
@@ -118,12 +127,15 @@ The project involved dividing responsibilities between team members, while also 
 
 ![BeeHive to Purple Bee Project Overview](evidence/project%20overview.png)
 
-![BeeHive to Purple Bee Project Overview](evidence/development%20team.png)
+![Development Team](evidence/Development%20Team.png)
 
 ## Reflection - STAR Method
 **Situation -** The team was assigned a project to investigate the integration of BeeHive and Purple Bee. The objective was to reduce the need for employees to manually recreate meeting action items as tasks in another system.
+
 **Task -** As the Project Lead and Documentation Lead, I was responsible for coordinating the work, researching the BeeHive and Purple Bee systems, and ensuring that the findings and requirements were properly documented.
+
 **Action -** I investigated how BeeHive handles meeting information and action items, contributed to identifying the integration requirements, and worked with the team to bring the different research areas together. I also helped ensure that the final documentation clearly explained the proposed solution and its requirements.
+
 **Result -** The team produced final research and requirements documentation that outlined how the integration could work and presented it. This experience helped me understand the importance of teamwork, task allocation, communication, and proper documentation when working on a software development project.
 
 # User Stories and Tasks
@@ -143,16 +155,19 @@ As an authorised X Spark team member, I want approved action items from BeeHive 
 8. Document the expected responses and error-handling requirements.
 9. Identify how the integration could be tested in a staging environment.
 
-![BeeHive to Purple Bee Project Overview](evidence/activity%20diagram.png)
+![Activity Diagram](evidence/activity%20diagram.png)
 
-![BeeHive to Purple Bee Project Overview](evidence/technical%20requirements.png)
+![Technical Requirements](evidence/technical%20requirements.png)
 
-![BeeHive to Purple Bee Project Overview](evidence/user%20story.png)
+![User Story](evidence/user%20story.png)
 
 ## Reflection - STAR Method
 **Situation -** During the integration research, it was important to understand what employees would need from the proposed system and how the integration would support their daily activities.
+
 **Task -** My responsibility was to contribute to identifying and documenting the requirements that would guide the development of the integration.
+
 **Action -** I helped define the purpose of the integration through a user story and considered the steps required to achieve it. This included identifying the information that needed to move between the systems and considering requirements such as authentication, validation, and preventing duplicate tasks.
+
 **Result -** The user story and task breakdown provided a clearer understanding of what the proposed integration needed to accomplish. I learnt how user stories help translate business needs into practical software requirements and how individual tasks make a larger development goal easier to manage.
 
 # Product Backlog
@@ -172,12 +187,15 @@ The product backlog contained the main features and requirements identified duri
 | Medium | Task creation records | Record the outcome of task-creation requests. |
 | Medium | Staging tests | Test the proposed integration in a controlled staging environment. |
 
-![BeeHive to Purple Bee Project Overview](evidence/data%20requirements.png)
+![Data Requirements](evidence/Data%20Requirements.png)
 
 ## Reflection - STAR Method
 **Situation -** The project required the team to identify the different features and technical requirements that would be necessary to make the integration work.
+
 **Task -** I needed to understand the requirements and contribute to organising the research findings into a structured document that could guide future development.
+
 **Action -** I helped identify the important requirements, including the data structure, receiving endpoint, authentication, validation, and duplicate prevention. I also considered which requirements would be essential before the integration could function correctly and documented the proposed priorities.
+
 **Result -** The product backlog provided a structured overview of the work required for future implementation. I gained a better understanding of how software requirements are prioritised and how a product backlog helps development teams plan and organise their work.
 
 # Sprint Backlog
@@ -185,6 +203,7 @@ The product backlog contained the main features and requirements identified duri
 ## Evidence
 **Sprint Work and Activities**
 The project work focused on research, requirements analysis, documentation, and technical preparation.
+
 | Activity | Description | Outcome |
 | --- | --- | --- |
 | BeeHive research | Investigated how BeeHive manages meeting agendas, notes, and action items. | Better understanding of the source system. |
@@ -194,22 +213,26 @@ The project work focused on research, requirements analysis, documentation, and 
 | Final documentation | Consolidated the research, requirements, and proposed integration process. | Final project documentation completed. |
 | OpenCode installation | Installed OpenCode as part of the technical setup and familiarisation with development tools. | OpenCode installation completed. |
 
-![BeeHive to Purple Bee Project Overview](evidence/purplebee%20.png)
+![Purple Bee](evidence/PurpleBee.png)
 
-![BeeHive to Purple Bee Project Overview](evidence/beehive.png)
+![BeeHive](evidence/BeeHive.png)
 
-![BeeHive to Purple Bee Project Overview](evidence/%20opencode.png)
+![OpenCode Installation](evidence/opencode.png)
 
 ## Reflection - STAR Method
 **Situation -** As the project progressed, the team needed to move from understanding the two systems to documenting a practical approach for integrating them. This required research, planning, and preparation.
+
 **Task -** My responsibility was to complete my assigned research, contribute to the integration requirements, assist with the final documentation, and complete the relevant technical setup, as well as present our findings to the senior development team.
+
 **Action -** I researched BeeHive and its functionality, investigated how meeting action items could be transferred, and documented the requirements for the proposed integration. I also helped consolidate the research into the final documentation. In addition, I installed OpenCode as part of becoming familiar with the technical tools available for the project.
+
 **Result -** I completed my research and documentation responsibilities and successfully installed OpenCode. I developed a better understanding of how research and planning contribute to software development and learnt that technical preparation is an important part of getting ready for implementation.
 
 # Agile Logbook
 
 ## Evidence
 **Project Activity Log**
+
 | Activity | Work performed | Outcome |
 | --- | --- | --- |
 | Project introduction | Reviewed the project objective and understood the purpose of connecting BeeHive and Purple Bee. | Established an understanding of the project. |
