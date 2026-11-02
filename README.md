@@ -117,7 +117,7 @@ The project involved dividing responsibilities between team members, while also 
 * Produce final documentation to guide future implementation.
 
 ### Evidence: Project Overview
-![BeeHive to Purple Bee Project Overview](evidence/agile-team-charter/project%20overview.png)
+![BeeHive to Purple Bee Project Overview](evidence/project%20overview.png)
 *Figure 1: Overview of the BeeHive to Purple Bee integration project.*
 
 ## Reflection - STAR Method
