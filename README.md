@@ -172,7 +172,7 @@ The product backlog contained the main features and requirements identified duri
 | Medium | Task creation records | Record the outcome of task-creation requests. |
 | Medium | Staging tests | Test the proposed integration in a controlled staging environment. |
 
-![BeeHive to Purple Bee Project Overview](evidence/data%20requiremnets.png)
+![BeeHive to Purple Bee Project Overview](evidence/data%20requirements.png)
 
 ## Reflection - STAR Method
 **Situation -** The project required the team to identify the different features and technical requirements that would be necessary to make the integration work.
@@ -194,7 +194,11 @@ The project work focused on research, requirements analysis, documentation, and 
 | Final documentation | Consolidated the research, requirements, and proposed integration process. | Final project documentation completed. |
 | OpenCode installation | Installed OpenCode as part of the technical setup and familiarisation with development tools. | OpenCode installation completed. |
 
-![BeeHive to Purple Bee Project Overview](evidence/project%20overview.png)
+![BeeHive to Purple Bee Project Overview](evidence/purplebee%20.png)
+
+![BeeHive to Purple Bee Project Overview](evidence/beehive.png)
+
+![BeeHive to Purple Bee Project Overview](evidence/%20opencode.png)
 
 ## Reflection - STAR Method
 **Situation -** As the project progressed, the team needed to move from understanding the two systems to documenting a practical approach for integrating them. This required research, planning, and preparation.
