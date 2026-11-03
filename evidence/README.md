@@ -97,10 +97,9 @@ Define how confirmed BeeHive meeting action items become Purple Bee tasks, remov
 
 #### Document pages
 
-Each section of the requirements document is shown below as page images. Click a section to expand it.
+Each section of the requirements document is shown below as page images.
 
-<details>
-<summary><b>Cover and table of contents</b> (pages 2–4)</summary>
+##### Cover and table of contents (pages 2–4)
 
 ![Cover and table of contents – page 2](logbook/page-02.png)
 
@@ -114,10 +113,8 @@ Each section of the requirements document is shown below as page images. Click a
 
 *Figure 13: Cover and table of contents – page 4.*
 
-</details>
 
-<details>
-<summary><b>Project overview</b> (pages 5–7)</summary>
+##### Project overview (pages 5–7)
 
 ![Project overview – page 5](logbook/page-05.png)
 
@@ -131,19 +128,15 @@ Each section of the requirements document is shown below as page images. Click a
 
 *Figure 16: Project overview – page 7.*
 
-</details>
 
-<details>
-<summary><b>Development team and devices</b> (page 8)</summary>
+##### Development team and devices (page 8)
 
 ![Development team and devices – page 8](logbook/page-08.png)
 
 *Figure 17: Development team and devices – page 8.*
 
-</details>
 
-<details>
-<summary><b>Functional requirements and business rules</b> (pages 9–10)</summary>
+##### Functional requirements and business rules (pages 9–10)
 
 ![Functional requirements and business rules – page 9](logbook/page-09.png)
 
@@ -153,28 +146,22 @@ Each section of the requirements document is shown below as page images. Click a
 
 *Figure 19: Functional requirements and business rules – page 10.*
 
-</details>
 
-<details>
-<summary><b>Business use case model</b> (page 11)</summary>
+##### Business use case model (page 11)
 
 ![Business use case model – page 11](logbook/page-11.png)
 
 *Figure 20: Business use case model – page 11.*
 
-</details>
 
-<details>
-<summary><b>User activities</b> (page 12)</summary>
+##### User activities (page 12)
 
 ![User activities – page 12](logbook/page-12.png)
 
 *Figure 21: User activities – page 12.*
 
-</details>
 
-<details>
-<summary><b>Use case glossary and narratives</b> (pages 13–15)</summary>
+##### Use case glossary and narratives (pages 13–15)
 
 ![Use case glossary and narratives – page 13](logbook/page-13.png)
 
@@ -188,10 +175,8 @@ Each section of the requirements document is shown below as page images. Click a
 
 *Figure 24: Use case glossary and narratives – page 15.*
 
-</details>
 
-<details>
-<summary><b>Activity diagram</b> (pages 16–17)</summary>
+##### Activity diagram (pages 16–17)
 
 ![Activity diagram – page 16](logbook/page-16.png)
 
@@ -201,28 +186,22 @@ Each section of the requirements document is shown below as page images. Click a
 
 *Figure 26: Activity diagram – page 17.*
 
-</details>
 
-<details>
-<summary><b>Interface requirements</b> (page 18)</summary>
+##### Interface requirements (page 18)
 
 ![Interface requirements – page 18](logbook/page-18.png)
 
 *Figure 27: Interface requirements – page 18.*
 
-</details>
 
-<details>
-<summary><b>Performance requirements</b> (page 19)</summary>
+##### Performance requirements (page 19)
 
 ![Performance requirements – page 19](logbook/page-19.png)
 
 *Figure 28: Performance requirements – page 19.*
 
-</details>
 
-<details>
-<summary><b>Security requirements</b> (pages 20–21)</summary>
+##### Security requirements (pages 20–21)
 
 ![Security requirements – page 20](logbook/page-20.png)
 
@@ -232,10 +211,8 @@ Each section of the requirements document is shown below as page images. Click a
 
 *Figure 30: Security requirements – page 21.*
 
-</details>
 
-<details>
-<summary><b>Data requirements</b> (pages 22–26)</summary>
+##### Data requirements (pages 22–26)
 
 ![Data requirements – page 22](logbook/page-22.png)
 
@@ -257,10 +234,8 @@ Each section of the requirements document is shown below as page images. Click a
 
 *Figure 35: Data requirements – page 26.*
 
-</details>
 
-<details>
-<summary><b>Integration and dependency requirements</b> (pages 27–28)</summary>
+##### Integration and dependency requirements (pages 27–28)
 
 ![Integration and dependency requirements – page 27](logbook/page-27.png)
 
@@ -270,10 +245,8 @@ Each section of the requirements document is shown below as page images. Click a
 
 *Figure 37: Integration and dependency requirements – page 28.*
 
-</details>
 
-<details>
-<summary><b>BeeHive and Purple Bee integration</b> (pages 29–31)</summary>
+##### BeeHive and Purple Bee integration (pages 29–31)
 
 ![BeeHive and Purple Bee integration – page 29](logbook/page-29.png)
 
@@ -287,10 +260,8 @@ Each section of the requirements document is shown below as page images. Click a
 
 *Figure 40: BeeHive and Purple Bee integration – page 31.*
 
-</details>
 
-<details>
-<summary><b>Requirement IDs, priority and traceability</b> (pages 32–33)</summary>
+##### Requirement IDs, priority and traceability (pages 32–33)
 
 ![Requirement IDs, priority and traceability – page 32](logbook/page-32.png)
 
@@ -300,10 +271,8 @@ Each section of the requirements document is shown below as page images. Click a
 
 *Figure 42: Requirement IDs, priority and traceability – page 33.*
 
-</details>
 
-<details>
-<summary><b>Open questions, risks and constraints</b> (pages 34–37)</summary>
+##### Open questions, risks and constraints (pages 34–37)
 
 ![Open questions, risks and constraints – page 34](logbook/page-34.png)
 
@@ -321,6 +290,5 @@ Each section of the requirements document is shown below as page images. Click a
 
 *Figure 46: Open questions, risks and constraints – page 37.*
 
-</details>
 
 [← Back to main portfolio](../README.md)
