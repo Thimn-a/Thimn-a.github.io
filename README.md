@@ -243,6 +243,114 @@ The project work focused on research, requirements analysis, documentation, and 
 | Documentation finalisation | Consolidated the team's research and completed the final documentation. | Final documentation completed. |
 | Technical preparation | Installed OpenCode as part of the project's technical setup. | Installation completed. |
 
+**Requirements Document (Thursday, 10 September 2026)**
+
+The pages below are from the BeeHive – Purple Bee final documentation, the main deliverable recorded in this logbook. The full PDF is available here: [BeeHive-Purple Bee Final Documentation](BeeHive-Purple%20Bee%20final%20documentation.pdf)
+
+### Cover and table of contents (pages 2–4)
+
+![Cover and table of contents – page 2](evidence/logbook/page-02.png)
+
+![Cover and table of contents – page 3](evidence/logbook/page-03.png)
+
+![Cover and table of contents – page 4](evidence/logbook/page-04.png)
+
+### Project overview (pages 5–7)
+
+![Project overview – page 5](evidence/logbook/page-05.png)
+
+![Project overview – page 6](evidence/logbook/page-06.png)
+
+![Project overview – page 7](evidence/logbook/page-07.png)
+
+### Development team and devices (page 8)
+
+![Development team and devices – page 8](evidence/logbook/page-08.png)
+
+### Functional requirements and business rules (pages 9–10)
+
+![Functional requirements and business rules – page 9](evidence/logbook/page-09.png)
+
+![Functional requirements and business rules – page 10](evidence/logbook/page-10.png)
+
+### Business use case model (page 11)
+
+![Business use case model – page 11](evidence/logbook/page-11.png)
+
+### User activities (page 12)
+
+![User activities – page 12](evidence/logbook/page-12.png)
+
+### Use case glossary and narratives (pages 13–15)
+
+![Use case glossary and narratives – page 13](evidence/logbook/page-13.png)
+
+![Use case glossary and narratives – page 14](evidence/logbook/page-14.png)
+
+![Use case glossary and narratives – page 15](evidence/logbook/page-15.png)
+
+### Activity diagram (pages 16–17)
+
+![Activity diagram – page 16](evidence/logbook/page-16.png)
+
+![Activity diagram – page 17](evidence/logbook/page-17.png)
+
+### Interface requirements (page 18)
+
+![Interface requirements – page 18](evidence/logbook/page-18.png)
+
+### Performance requirements (page 19)
+
+![Performance requirements – page 19](evidence/logbook/page-19.png)
+
+### Security requirements (pages 20–21)
+
+![Security requirements – page 20](evidence/logbook/page-20.png)
+
+![Security requirements – page 21](evidence/logbook/page-21.png)
+
+### Data requirements (pages 22–26)
+
+![Data requirements – page 22](evidence/logbook/page-22.png)
+
+![Data requirements – page 23](evidence/logbook/page-23.png)
+
+![Data requirements – page 24](evidence/logbook/page-24.png)
+
+![Data requirements – page 25](evidence/logbook/page-25.png)
+
+![Data requirements – page 26](evidence/logbook/page-26.png)
+
+### Integration and dependency requirements (pages 27–28)
+
+![Integration and dependency requirements – page 27](evidence/logbook/page-27.png)
+
+![Integration and dependency requirements – page 28](evidence/logbook/page-28.png)
+
+### BeeHive and Purple Bee integration (pages 29–31)
+
+![BeeHive and Purple Bee integration – page 29](evidence/logbook/page-29.png)
+
+![BeeHive and Purple Bee integration – page 30](evidence/logbook/page-30.png)
+
+![BeeHive and Purple Bee integration – page 31](evidence/logbook/page-31.png)
+
+### Requirement IDs, priority and traceability (pages 32–33)
+
+![Requirement IDs, priority and traceability – page 32](evidence/logbook/page-32.png)
+
+![Requirement IDs, priority and traceability – page 33](evidence/logbook/page-33.png)
+
+### Open questions, risks and constraints (pages 34–37)
+
+![Open questions, risks and constraints – page 34](evidence/logbook/page-34.png)
+
+![Open questions, risks and constraints – page 35](evidence/logbook/page-35.png)
+
+![Open questions, risks and constraints – page 36](evidence/logbook/page-36.png)
+
+![Open questions, risks and constraints – page 37](evidence/logbook/page-37.png)
+
 ## Overall Reflection - STAR Method
 **Situation -** The BeeHive to Purple Bee Integration Project gave me the opportunity to work on a real-world software integration research task within the X Spark environment. The project required an understanding of two existing systems and how they could potentially communicate to improve an internal business process.
 
